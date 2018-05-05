@@ -1,6 +1,8 @@
 # INFO-7390
 
-Assignment 1
+**Course work for Advances in Data Science course**
+
+**Assignment 1**
 
 
 Submission: Put the data and Jupyter notebook files in a folder. Make sure all links to data are relative to the folder so the TAs can run the notebooks.
@@ -86,7 +88,7 @@ Identify subsets of interest
 Suggest functional relationships
 
 
-Assignment 2
+**Assignment 2**
 
 
 Submission: Put the data and Jupyter notebook files in a folder. Make sure all links to data are relative to the folder so the TAs can run the notebooks. Points will be deducted if the TAs can't run the notebooks.
@@ -99,8 +101,8 @@ Cluster your data:
 Use at least two methods to cluster your data. (25 points)
 Answer the following questions for the clustering:
 
-Assignment Apache Spark
-Due Friday, March 16, 2018
+**Assignment Apache Spark**
+
 
 Submission: Put the data and Jupyter notebook files in a folder. Make sure all links to data are relative to the folder so the TAs can run the notebooks.
 
@@ -148,7 +150,7 @@ Compare Apache Spark and TensorFlow to TensorFlow not on Apache Spark (40 Points
 Use Apache Spark to apply a trained neural network model using Apache Spark and not using Apache Spark. Write a report of the Pros and Cons.
 
 
-Assignment 4 - Deep Learning
+**Assignment 4 - Deep Learning**
 
 
 Submission: Put the data and Jupyter notebook files in a folder. Make sure all links to data are relative to the folder so the TAs can run the notebooks.
